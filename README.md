@@ -17,9 +17,9 @@ Tech Stack
 
 Screenshots
 
-![Screenshot1](screenshots/game.png)
-![Screenshot2](screenshots/game1.png)
-![Screenshot3](screenshots/game2.png)
+screenshots/game.png
+screenshots/game1.png
+screenshots/game2.png
 
 Run Locally
 bash
