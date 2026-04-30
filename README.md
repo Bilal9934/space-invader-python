@@ -15,8 +15,10 @@ Tech Stack
  Gameplay
 ![Game](game.png)
 
- Video Demo
-https://your-video-link
+Screenshots
+![Game Screenshot 1](screenshots/game.png)
+![Game Screenshot 2](screenshots/game1.png)
+![Game Screenshot 3](screenshots/game2.png)
 
 Run Locally
 bash
