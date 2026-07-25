@@ -115,7 +115,7 @@ python main.py
 
 **Muhammad Bilal**
 
-- **GitHub:** https://github.com/CodeWith-MB
+- **GitHub:** [https://github.com/CodeWith-MB](https://github.com/CodeWith-Bilall)
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal9
 
 ---
